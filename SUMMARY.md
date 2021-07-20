@@ -4,4 +4,4 @@
 
 - [hztl-ui](hztl-ui/README.md)
   - [Table 表格](hztl-ui/Table 表格.md)
-  - [Format-Number 数字输入框.md](hztl-ui/Format-Number 数字输入框.md.md)
+  - [Format-Number 数字输入框](hztl-ui/Format-Number 数字输入框.md)
